@@ -6,8 +6,8 @@ data:
   DBNAME: "emp46131559"
   DBUSER: "emp46131559"
   DBPASS: "password"
-  DBHOST: "54.215.114.152"
-  DBPORT: "31053"
+  DBHOST: "postgres"
+  DBPORT: "5432"
 ---
 apiVersion: apps/v1
 kind: Deployment
